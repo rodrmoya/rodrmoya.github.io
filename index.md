@@ -1,6 +1,4 @@
-# Rodrigo Moya @ github.com
-
-## About
+# About
 * __Name:__ Rodrigo Moya
 * __Company email:__ romoya at microsoft.com
 * __Twitter:__ @rodrigo_moya
