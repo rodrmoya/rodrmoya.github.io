@@ -3,5 +3,5 @@
 ## About
 * __Name:__ Rodrigo Moya
 * __Company email:__ romoya at microsoft.com
-* __Twitter__ @rodrigo_moya
-* __Blog:__ [http://rodrmoya.github.io](http://rodrmoya.github.io)
+* __Twitter:__ @rodrigo_moya
+* __Website:__ [http://rodrmoya.github.io](http://rodrmoya.github.io)
