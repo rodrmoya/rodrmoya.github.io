@@ -1,3 +1,7 @@
+---
+title: Rodrigo Moya @ github
+layout: default
+---
 
 # About
 * __Name:__ Rodrigo Moya
