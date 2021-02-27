@@ -1,6 +1,5 @@
 ---
 title: Rodrigo Moya @ github
-layout: default
 ---
 
 # About
